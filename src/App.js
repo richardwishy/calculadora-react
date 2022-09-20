@@ -8,8 +8,6 @@ import { evaluate } from 'mathjs';
 
 function App() {
 
-  //codigo de javascript
-
   const [input, setInput] = useState('');
 
   const agregarInput = val => {
